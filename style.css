@@ -1,0 +1,70 @@
+p{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.livro{
+  height: 250px;
+  width: 250px;
+}
+.music > p{
+  font-size: 18px;
+  text-align: center;
+}
+p a{
+  text-decoration: none;
+  color:black;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+p a:visited{
+  color:black;
+}
+p a:hover{
+  color:blue;
+}
+.anime{
+  height: 250px;
+  width: 250px;
+}
+.lil{
+  height: 250px;
+  width: 250px;
+}
+.boys{
+  height: 250px;
+  width: 250px;
+}
+.duzz{
+  height: 250px;
+  width: 250px;
+}
+.xxxt{
+  height: 250px;
+  width: 250px;
+}
+.X{
+  height: 250px;
+  width: 250px;
+}
+.menu{
+  font-size: 18px;
+  text-align: center;
+}
+.menu > a {
+  text-decoration: none;
+  color:black;
+  margin-right: 20px;
+}
+.menu > a:visited{
+  color: purple;
+}
+.menu > a:hover{
+  color: blue;
+}
+h1{
+  text-align: center;
+  padding-bottom: 5px;
+  font-family: 'Lucida Handwriting', cursive;
+}
